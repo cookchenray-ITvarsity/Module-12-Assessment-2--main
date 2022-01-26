@@ -1,0 +1,33 @@
+body{
+        justify-content: left;
+    font-family: "Raleway" , sans-serif;
+    background-color: grey;
+    border: 5px solid #666666;
+    button: active ;
+}
+
+.container{
+    width: 800px;
+}
+
+.form{
+    margin-right: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin: bottom 1.5em;
+}
+
+.form-lable{
+    font-size: .75em;
+    color: darkseagreen;
+    display: block;
+}
+
+.form button{
+    padding-right: 25px;
+}
+
+
+.input{
+    width: 50%;
+}
